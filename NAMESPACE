@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(stats, aov)
+importFrom(stats, qqnorm)
+importFrom(stats, TukeyHSD)
+importFrom(graphics, plot)
